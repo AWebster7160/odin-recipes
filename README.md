@@ -1,2 +1,2 @@
 # odin-recipes
-Practice making a recipe website
+Practice making a recipe website and implementing basic HTML. First published webpage on GitHub. Will provide a few basic recipes with clickable links that take user to corresponding page. Pages will provide an image and list ingredients and steps.
