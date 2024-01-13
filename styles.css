@@ -1,4 +1,28 @@
 body {
     background-color: bisque;
-    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    color: hwb(0 16% 31%);
+}
+
+h2 {
+    color: rgb(253, 146, 24);
+}
+
+h3 {
+    color: midnightblue;
+}
+
+.button {
+    background-color: rgb(26, 192, 26); color: rgb(1, 32, 46); font-size: 100px;
+}
+
+.button:hover {
+    background-color: cornflowerblue;
+}
+
+.button:active {
+    background-color: rgb(169, 80, 252); font-weight: bolder;
 }
